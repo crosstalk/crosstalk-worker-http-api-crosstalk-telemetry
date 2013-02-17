@@ -1,7 +1,7 @@
 Crosstalk Telemetry HTTPS API
 =============================================
 
-Crosstalk Telemetry API Base Url: `https://telemetry.worker.crxtalk.com
+Crosstalk Telemetry API Base Url: `https://telemetry.worker.crxtalk.com`
 
 ## Version
 
